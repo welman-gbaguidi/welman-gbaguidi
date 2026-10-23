@@ -52,12 +52,12 @@ Je conçois des produits numériques complets, du design à la mise en productio
 | **Le Juriste Augmenté** | Vitrine juridique : veille, bibliothèque de prompts IA pour juristes, fiches OHADA. Next.js + Motion. | [Site](https://le-juriste-augmente.vercel.app) |
 | **DGA SPORT** | Site vitrine pour un agent de joueurs licencié FIFA. | [Site](https://dga-sport.vercel.app) |
 | **OLAEWE** | E-commerce de chaussures en cuir premium avec commande via WhatsApp. | En conception |
-| **Higgsfield Studio** | Client open source pour utiliser sa propre clé API Higgsfield : image, vidéo, Soul ID, 84 endpoints. | [Code](https://github.com/Welman123-Pro/higgsfield-studio) |
+| **Higgsfield Studio** | Client open source pour utiliser sa propre clé API Higgsfield : image, vidéo, Soul ID, 84 endpoints. | [Code](https://github.com/welman-gbaguidi/higgsfield-studio) |
 
 ## Open source
 
-- [**higgsfield-studio**](https://github.com/Welman123-Pro/higgsfield-studio) — client Next.js 16 pour l'API Higgsfield
-- [**env-shield-cli**](https://github.com/Welman123-Pro/env-shield-cli) — CLI qui empêche la fuite de clés d'API et de secrets sur GitHub
+- [**higgsfield-studio**](https://github.com/welman-gbaguidi/higgsfield-studio) — client Next.js 16 pour l'API Higgsfield
+- [**env-shield-cli**](https://github.com/welman-gbaguidi/env-shield-cli) — CLI qui empêche la fuite de clés d'API et de secrets sur GitHub
 
 ---
 
