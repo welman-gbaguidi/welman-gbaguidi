@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/84808875?v=4" width="140" style="border-radius:50%" alt="Welman Gbaguidi" />
+<img src="assets/photo.jpg" width="180" alt="Welman Gbaguidi" />
 
 # Welman Gbaguidi
 
